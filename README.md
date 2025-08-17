@@ -1,3 +1,4 @@
+Edited on 2025-08-18 by automation.
 # GitHub Shifter 🔀
 
 A lightweight command-line tool written in C that helps you switch between multiple GitHub accounts easily. Ideal for developers who manage personal and work profiles on the same machine.
